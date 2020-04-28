@@ -1,0 +1,6 @@
+total 0
+drwxrwxrwx 1 jwhong jwhong 512 Apr 28 15:53 .
+drwxrwxrwx 1 jwhong jwhong 512 Apr 28 15:51 ..
+drwxrwxrwx 1 jwhong jwhong 512 Apr 28 15:51 .git
+-rwxrwxrwx 1 jwhong jwhong   0 Apr 28 15:53 list.txt
+-rwxrwxrwx 1 jwhong jwhong   7 Apr 28 15:51 origin.txt
